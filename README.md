@@ -1,5 +1,5 @@
 # IBM-Project-49639-1660831025
-# IBM-Project-45362-1660729631
+
 Inventory Managment System for Retailers
 
 Category: Cloud App Development
